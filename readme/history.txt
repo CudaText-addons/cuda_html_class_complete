@@ -1,10 +1,11 @@
 
-1.0.2
-+complete-list replaces right part of word
--fix: plugin breaks std html completion,moves caret
+2018.07.12
++ code refactored
++ supported PHP lexer too
 
-1.0.1
--fix: hang if call after usual text
+2016.01
++ add: completion-list replaces right part of word
+- fix: plugin breaks usual HTML completion
 
-1.0.0 (oct 2015)
-init
+2015.10
+initial

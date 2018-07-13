@@ -3,8 +3,10 @@ title=HTML Class Complete
 desc=Auto-completes CSS class names, in HTML code
 type=cudatext-plugin
 subdir=cuda_html_class_comp
+homepage=https://github.com/CudaText-addons/cuda_html_class_complete
+$lex=regex:.*HTML.*|PHP
 
 [item1]
 section=events
 events=on_complete
-lexers=HTML,HTML_,PHP,PHP_
+lexers=$lex
