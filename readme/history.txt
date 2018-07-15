@@ -1,4 +1,7 @@
 
+2018.07.16
+- fix: plugin was stopping next auto-completion plugins
+
 2018.07.12
 + code refactored
 + supported PHP lexer and other "HTML nnnnnn" lexers
